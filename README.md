@@ -9,7 +9,7 @@ This project template lets you create your own [Character Alignment](https://en.
 - HTML version: [alignment.glitch.me](https://alignment.glitch.me)
 - Image version: [alignment.glitch.me/image](https://alignment.glitch.me/image)
 
-![Twitter card](https://cdn.glitch.com/0cecf23c-e373-4cc6-abf5-52b30b1359cb%2Ftwitter-card.png?1503538524975)
+![Twitter card](https://cdn.glitch.com/0cecf23c-e373-4cc6-abf5-52b30b1359cb%2Ftwitter-card.png?1503539154426)
 
 The image version is also used as a thumbnail when sharing your page on Facebook or Twitter.
 
