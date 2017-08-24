@@ -1,5 +1,3 @@
-**_WORK IN PROGRESS, CHECK BACK LATER!_**
-
 # Alignment
 
 ![Tag yourself!](https://cdn.glitch.com/0cecf23c-e373-4cc6-abf5-52b30b1359cb%2Falignment.png?1503516823972)
@@ -9,14 +7,15 @@ This project template lets you create your own [Character Alignment](https://en.
 - HTML version: [alignment.glitch.me](https://alignment.glitch.me)
 - Image version: [alignment.glitch.me/image](https://alignment.glitch.me/image)
 
+The image version is also used as a thumbnail when sharing your page on Facebook or Twitter.
+
 ![Twitter card](https://cdn.glitch.com/0cecf23c-e373-4cc6-abf5-52b30b1359cb%2Ftwitter-card.png?1503539154426)
 
-The image version is also used as a thumbnail when sharing your page on Facebook or Twitter.
 
 
 # Instructions
 
-1. Upload your images to the `assets` folder.
+1. Upload your images to the `assets` folder. Ideally, the images should have the same size.
 2. Update `views/home.handlebars` with the URLs of your images and names and descriptions of the characters.
 
 # For developers
