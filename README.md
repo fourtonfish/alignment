@@ -17,6 +17,7 @@ The image version is also used as a thumbnail when sharing your page on Facebook
 
 1. Upload your images to the `assets` folder. Ideally, the images should have the same size.
 2. Update `views/home.handlebars` with the URLs of your images and names and descriptions of the characters.
+3. Update `TITLE` and `DESCRIPTION` of your page inside the `.env` file.
 
 # For developers
 

@@ -19,9 +19,11 @@ app.use(bodyParser.urlencoded({
 
 app.get('/', function (req, res) {
     res.render('home', {
-      title: process.env.TITLE,
-      description: process.env.DESCRIPTION,
-      project_name: process.env.PROJECT_DOMAIN
+      title: process.env.TITLE || 'Alignment',
+      description: process.env.DESCRIPTION || 'Tag yourself',
+      project_name: process.env.PROJECT_DOMAIN,
+      sc_project: process.env.SC_PROJECT,
+      sc_security: process.env.SC_SECURITY
     });
 });
 
