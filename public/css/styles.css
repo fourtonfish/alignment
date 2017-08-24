@@ -42,7 +42,8 @@ h1 span {
 img {
   max-width: 100%;
 }
-a {
+a,
+a:hover {
   color: #fff;
 }
 footer {
