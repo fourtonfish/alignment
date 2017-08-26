@@ -11,13 +11,12 @@ The image version is also used as a thumbnail when sharing your page on Facebook
 
 ![Twitter card](https://cdn.glitch.com/0cecf23c-e373-4cc6-abf5-52b30b1359cb%2Ftwitter-card.png?1503539154426)
 
-
-
 # Instructions
 
 1. Upload your images to the `assets` folder. Ideally, the images should have the same size.
 2. Update `views/home.handlebars` with the URLs of your images and names and descriptions of the characters.
 3. Update `TITLE` and `DESCRIPTION` of your page inside the `.env` file.
+4. Update `views/partials/footer.handlebars` with your name (or remove the content of the file completely).
 
 # For developers
 
@@ -38,4 +37,3 @@ Open the console, and run `gulp`. (See screenshots below.) You can now edit all 
 I had to add Bootstrap 3, because phantomjs can't apparently render `flexbox`, which breaks the thumbnail generator ¯\\_(ツ)\_/¯
 
 This project is hosted on [Glitch](https://glitch.com).
-
